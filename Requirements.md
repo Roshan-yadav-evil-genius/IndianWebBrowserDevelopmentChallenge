@@ -20,14 +20,14 @@
 
    1. ### State the platforms that your software supports
 
-      - Mac
-      - Windows
-      - Linux
+      - ✅Mac
+      - ✅Windows
+      - ✅Linux
 
    2. ### State the category of devices that your software supports
 
       - ios
-      - Android
+      - ✅Android
       - Other
 
    3. ### Support for TrustStore with built-in CCA India root certificate
@@ -53,7 +53,7 @@
    7. ### Usage of AI/ML models for auto adaptation of the software to individuals andpersonalized use with user's permission
 
       - Yes
-      - No
+      - ✅No
 
    8. ### Support for AR/VR modes of interactions over the Internet, inherent support forsocial media, and Seamless Adaptation to Meta verse
       - Yes
@@ -78,7 +78,7 @@
 
       The browser shall allow users to type any text and search the Internet
 
-      - Yes
+      - ✅Yes
       - No
       - other
 
@@ -86,7 +86,7 @@
 
       The browser shall allow the user to search the Internet via voice input using a device mic
 
-      - Yes
+      - ✅Yes
       - No
       - other
 
@@ -102,7 +102,7 @@
 
       Browsing activity done in standard mode is to be recorded in the History section in reverse chronological order, with the option for the user to clear or disable history
 
-      - Yes
+      - ✅Yes
       - No
       - other
 
@@ -110,7 +110,7 @@
 
       Allows users to add & remove bookmarked websites for frequent access
 
-      - Yes
+      - ✅Yes
       - No
       - other
 
@@ -118,7 +118,7 @@
 
       Option to access the downloaded content for offline browsing, which is categorized based on file types for easy access.
 
-      - Yes
+      - ✅Yes
       - No
       - other
 
@@ -126,25 +126,25 @@
 
       Support for multiple search engines with option to add a custom one.
 
-      - Yes
+      - ✅Yes
       - No
       - other
 
    8. ### Anonymous Mode (incognito Mode)
       Enables user to browse without storing history, cookies, site data, or form filling data on the device
-      - Yes
+      - ✅Yes
       - No
       - other
-   9. ### Tab Managemen
+   9. ### Tab Management
       The browser shall allow the user to open multiple concurrent tabs and easily navigate between the tabs
-      - Yes
+      - ✅Yes
       - No
       - other
    10. ### Navigation Features
 
        Features that help users to navigate back & forward and retrace their steps through websites
 
-       - Yes
+       - ✅Yes
        - No
        - other
 
@@ -152,7 +152,7 @@
 
        User interface where user can input website address and displays website-related information including security details
 
-       - Yes
+       - ✅Yes
        - No
        - Other
 
@@ -190,7 +190,7 @@
 
        Support to read PDF documents and render webpage in PDF format.
 
-       - Yes
+       - ✅Yes
        - No
        - other
 
@@ -198,7 +198,7 @@
 
        Option to print a webpage (or selected content) through an attached printer or AirPrint or print to pdf.
 
-       - Yes
+       - ✅Yes
        - No
        - other
 
@@ -206,7 +206,7 @@
 
        Allows users to zoom in and zoom out within the page.
 
-       - Yes
+       - ✅Yes
        - No
        - other
 
@@ -214,7 +214,7 @@
 
        Allows the user to view any webpage with full desktop functionality in mobile device.
 
-       - Yes
+       - ✅Yes
        - No
        - other
 
@@ -222,7 +222,7 @@
 
        Allows users to browse in visually comfortable colour themes with various dark and light themes.
 
-       - Yes
+       - ✅Yes
        - No
        - other
 
@@ -241,16 +241,15 @@
        - other
    23. ### Login credentials
        Allow users to privately store (with encryption) or remove login credentials.
-       - Yes
-
-   - No
-   - O other
+         - Yes
+         - No
+         - other
 
    24. ### Clear browsing data
 
        Allow users to clear cookies, history, and cache through browser settings.
 
-       - Yes
+       - ✅Yes
        - No
        - other
 
@@ -282,7 +281,7 @@
 
        Allowing users to add webpages they frequently visit, to quick links section on the home page for easy access.
 
-       - Yes
+       - ✅Yes
        - No
        - other
 

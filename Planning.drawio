@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" pages="4">
     <diagram name="Requirements" id="sd-QBAOcnEi-6MUZMzfw">
-        <mxGraphModel dx="1232" dy="890" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1214" dy="1031" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -47,63 +47,63 @@
         </mxGraphModel>
     </diagram>
     <diagram id="4aWWaeKkYwlVj9sNBhfg" name="Research Questions">
-        <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="814" dy="631" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="TvLC0HYzYqnCH_JxnMHu-2" value="why chrome is Ram hungry" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="TvLC0HYzYqnCH_JxnMHu-2" value="why chrome is Ram hungry" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="386" y="44" width="227" height="31" as="geometry"/>
                 </mxCell>
-                <mxCell id="TvLC0HYzYqnCH_JxnMHu-3" value="why brave browser is secure" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="TvLC0HYzYqnCH_JxnMHu-3" value="why brave browser is secure" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="386" y="92" width="237" height="31" as="geometry"/>
                 </mxCell>
-                <mxCell id="TvLC0HYzYqnCH_JxnMHu-4" value="at the end brave, chrome and edge uses chromium &lt;br style=&quot;font-size: 16px;&quot;&gt;as there web engine then why brave browser is fast&amp;nbsp;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="TvLC0HYzYqnCH_JxnMHu-4" value="at the end brave, chrome and edge uses chromium &lt;br style=&quot;font-size: 16px;&quot;&gt;as there web engine then why brave browser is fast&amp;nbsp;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="386" y="131" width="418" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="TvLC0HYzYqnCH_JxnMHu-5" value="what are the things which&amp;nbsp;&amp;nbsp;make a&amp;nbsp; browser secure" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
+                <mxCell id="TvLC0HYzYqnCH_JxnMHu-5" value="what are the things which&amp;nbsp;&amp;nbsp;make a&amp;nbsp; browser secure" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1;fontColor=#FF0000;" parent="1" vertex="1">
                     <mxGeometry x="386" y="188" width="404" height="31" as="geometry"/>
                 </mxCell>
-                <mxCell id="TvLC0HYzYqnCH_JxnMHu-7" value="what are the things required to build&amp;nbsp; &lt;br style=&quot;font-size: 16px;&quot;&gt;a minimal browser with only search functionality" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="TvLC0HYzYqnCH_JxnMHu-7" value="what are the things required to build&amp;nbsp; &lt;br style=&quot;font-size: 16px;&quot;&gt;a minimal browser with only search functionality" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="386" y="227" width="388" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="TvLC0HYzYqnCH_JxnMHu-8" value="how lite browsers available on market / playstore&lt;br style=&quot;font-size: 16px;&quot;&gt;work how they are small in size and fast also" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="TvLC0HYzYqnCH_JxnMHu-8" value="how lite browsers available on market / playstore&lt;br style=&quot;font-size: 16px;&quot;&gt;work how they are small in size and fast also" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="386" y="275" width="391" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="Z4trkv1aG_L-IVOclruQ-1" value="What is web3&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="Z4trkv1aG_L-IVOclruQ-1" value="What is web3&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="386" y="332" width="124" height="31" as="geometry"/>
                 </mxCell>
-                <mxCell id="Z4trkv1aG_L-IVOclruQ-2" value="what are the things required to support web3" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
+                <mxCell id="Z4trkv1aG_L-IVOclruQ-2" value="what are the things required to support web3" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1;fontColor=#FF0000;" parent="1" vertex="1">
                     <mxGeometry x="386" y="380" width="360" height="31" as="geometry"/>
                 </mxCell>
-                <mxCell id="Z4trkv1aG_L-IVOclruQ-3" value="what&amp;nbsp; is the relation between &lt;br&gt;web3 and blockchain" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="Z4trkv1aG_L-IVOclruQ-3" value="what&amp;nbsp; is the relation between &lt;br&gt;web3 and blockchain" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="7" y="433" width="236" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="Z4trkv1aG_L-IVOclruQ-4" value="what are the advantage's of web3.0" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="Z4trkv1aG_L-IVOclruQ-4" value="what are the advantage's of web3.0" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="7" y="367" width="285" height="31" as="geometry"/>
                 </mxCell>
-                <mxCell id="TvLC0HYzYqnCH_JxnMHu-1" value="What is CCA India root certificate" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=16;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
+                <mxCell id="TvLC0HYzYqnCH_JxnMHu-1" value="What is CCA India root certificate" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=16;fontStyle=1;fontColor=#FF0000;" parent="1" vertex="1">
                     <mxGeometry x="7" y="285" width="309" height="44" as="geometry"/>
                 </mxCell>
-                <mxCell id="vMigulafdaCxbsUbC0Ue-4" value="what are the programming language used&amp;nbsp; by each open source browser and why they use that specific language" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=16;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="vMigulafdaCxbsUbC0Ue-4" value="what are the programming language used&amp;nbsp; by each open source browser and why they use that specific language" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=16;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="7" y="188" width="309" height="86" as="geometry"/>
                 </mxCell>
-                <mxCell id="vMigulafdaCxbsUbC0Ue-3" value="How we make our own trust store what are&amp;nbsp; the requirements" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=16;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
+                <mxCell id="vMigulafdaCxbsUbC0Ue-3" value="How we make our own trust store what are&amp;nbsp; the requirements" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=16;fontStyle=1;fontColor=#FF0000;" parent="1" vertex="1">
                     <mxGeometry x="7" y="126" width="309" height="59" as="geometry"/>
                 </mxCell>
-                <mxCell id="vMigulafdaCxbsUbC0Ue-2" value="list all browsers which are open source and have minimum one unique features" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=16;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="vMigulafdaCxbsUbC0Ue-2" value="list all browsers which are open source and have minimum one unique features" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=16;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="7" y="44" width="309" height="71" as="geometry"/>
                 </mxCell>
-                <mxCell id="Z4trkv1aG_L-IVOclruQ-5" value="list all opensource decentralized browsers&lt;br&gt;which support web 3&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="Z4trkv1aG_L-IVOclruQ-5" value="list all opensource decentralized browsers&lt;br&gt;which support web 3&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="386" y="419" width="341" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="Z4trkv1aG_L-IVOclruQ-6" value="what language is used to build this &lt;br&gt;decentralized browsers" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="Z4trkv1aG_L-IVOclruQ-6" value="what language is used to build this &lt;br&gt;decentralized browsers" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="386" y="467" width="284" height="50" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="xRo7KkIqUmC9yuLDX-8u" name="1st Week objective">
-        <mxGraphModel dx="1232" dy="890" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1214" dy="1031" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -176,14 +176,14 @@
                 <mxCell id="FrxckndTVkroL_k9e9k_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.545;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="fJbxfaTy64lKZsMz9a4S-3" target="fJbxfaTy64lKZsMz9a4S-8" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="hsn8c6Fh12a86OsG82Pq-1" value="samarth" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                <mxCell id="hsn8c6Fh12a86OsG82Pq-1" value="samarth" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="77" y="256" width="61" height="26" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="emiVFf2QKFIBihkXXNMl" name="Refrence">
-        <mxGraphModel dx="1232" dy="890" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1214" dy="1031" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>

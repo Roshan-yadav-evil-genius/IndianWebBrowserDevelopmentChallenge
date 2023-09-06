@@ -90,7 +90,7 @@
       - No
       - other
 
-   3. ### QR Code Scanne
+   3. ### QR Code Scanner ❌
 
       The browser shall allow users to scan QR codes and open websites.
 
@@ -114,7 +114,7 @@
       - No
       - other
 
-   6. ### Download Management
+   6. ### Download Management ❌
 
       Option to access the downloaded content for offline browsing, which is categorized based on file types for easy access.
 
@@ -130,7 +130,7 @@
       - No
       - other
 
-   8. ### Anonymous Mode (incognito Mode)
+   8. ### Anonymous Mode (incognito Mode) ❌
       Enables user to browse without storing history, cookies, site data, or form filling data on the device
       - ✅Yes
       - No
@@ -164,12 +164,12 @@
        - No
        - other
 
-   13. ### Multi-lingual Support
+   13. ### Multi-lingual Support ❌
        Support for app interface in minimum 10 official languages including Hindi & English.
        - Yes
        - No
        - other
-   14. ### Trust Store
+   14. ### Trust Store ❌
 
        The browser should provide the service to indicate trust (Preload CCA India Root Certificate) of websites & confidence level based on scam/spam
        blacklist.
@@ -234,12 +234,12 @@
        - No
        - other
 
-   22. ### Third-party Cookies
+   22. ### Third-party Cookies 
        Provide an option for users to allow or deny third-party cookies.
        - Yes
        - No
        - other
-   23. ### Login credentials
+   23. ### Login credentials ❌
        Allow users to privately store (with encryption) or remove login credentials.
          - Yes
          - No
@@ -269,7 +269,7 @@
        - No
        - other
 
-   27. ### Web3 Support
+   27. ### Web3 Support ❌
 
        Browser version ready for Web3 content and related use cases
 
@@ -277,7 +277,7 @@
        - No
        - other
 
-   28. ### Quick links
+   28. ### Quick links ❌
 
        Allowing users to add webpages they frequently visit, to quick links section on the home page for easy access.
 
@@ -285,17 +285,17 @@
        - No
        - other
 
-   29. ### Anti-tracking/Secure Mode
+   29. ### Anti-tracking/Secure Mode ❌
        It helps users to browse anonymously and avoid being tracked based on their browsing habits.
        - Yes
        - No
        - other
-   30. ### Data-Saver
+   30. ### Data-Saver ❌
        Mode to reduce the data consumption while browsing & save data.
        - Yes
        - No
        - other
-   31. ### Parental control/Kids' mode
+   31. ### Parental control/Kids' mode 
 
        Enables safe browsing for kids and lets parents control their kids' internet usage.
 

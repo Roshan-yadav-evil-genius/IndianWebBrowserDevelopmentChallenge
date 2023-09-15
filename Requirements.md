@@ -1,20 +1,45 @@
 1. ## Provide the following details
 
-   1. ### Provide a brief description of the nature of work and projects executed in thepast with the required credentials.\
+   1. ### Provide a brief description of the nature of work and projects executed in the past with the required credentials.
+      1. mention all projects\
+      *Note :* Write here in 200 words, Name of the Project, Project Client Name (If any/Self), Link of Website/Demo, Description of the Project
 
-      Write here in 200 words\
-      Name of the Project\
-      Project Client Name (If any/Self)\
-      Link of Website/Demo\
-      Description of the Project
+      Answer :
 
-   2. ### Brief description of any similar kind of software product development work donein the past.\
+      we are bridgeskillz the team of developer with curiosity to learn and explore and build.
+
+      we worked on lot of projects on webscraping / crawlers / network monitoring which consist of
+
+      networking
+
+      bypass authentication
+
+      utilizing public cca to bypass authentication in browser for packet analysis / monitoring
+
+
+
+      automation using headless browsers and controlling there multiple instances for async operation
+      
+      ### some contributions done by our team:
+
+      chrome extension scrapers having functionality to inject script on specified pages and communication between diffrent sandboxes https://github.com/Roshan-yadav-evil-genius/React-Advanced-Freelance-Job-Scraper/tree/main
+
+      controlling scrolling speed in browser : https://stackoverflow.com/questions/30942041/slow-scrolling-down-the-page-using-selenium/74005862#74005862
+
+      creating and recording of browser screen processes: https://stackoverflow.com/questions/41885914/how-to-record-selenium-webdriver-test-executions-in-python-on-window-x64/74209942#74209942
+
+
+
+   2. ### Brief description of any similar kind of software product development work done in the past.
       Total user base of software\
       Commercialization of software\
       Brief description of the subject knowledge\
       Link of Website\
       Functionality of software in the earlier work\
       Any other implementation of relevant/intresting additional features
+
+   not a full fledge application but currently we are working on building a browser we conduct a market reasearch to list out browsers which are avilable in market and other research like how browsers are fast and how some of the browsers are light weight
+
 
 2. ## Applicant may indicate features that are available in the software developed by the applicant as submitted above in Section I (prior work):
 
@@ -98,7 +123,7 @@
       - No
       - other
 
-   4. ### Histor
+   4. ### History
 
       Browsing activity done in standard mode is to be recorded in the History section in reverse chronological order, with the option for the user to clear or disable history
 

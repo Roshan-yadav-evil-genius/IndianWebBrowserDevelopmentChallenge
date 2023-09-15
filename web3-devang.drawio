@@ -1,0 +1,83 @@
+<mxfile host="65bd71144e">
+    <diagram id="TmSRAEzZwBeI_VMTccOS" name="web3 domains">
+        <mxGraphModel dx="1745" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="fOO.eth" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="110" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Name Processing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="25" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=none;html=1;fontSize=8;" edge="1" parent="1" source="4" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="foo.eth" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="110" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;UTS-46&lt;br&gt;Normalisation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="255" y="100" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;span style=&quot;&quot; data-slate-fragment=&quot;JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkVOUyUyMHdvcmtzJTIwcHVyZWx5JTIwd2l0aCUyMGZpeGVkJTIwbGVuZ3RoJTIwMjU2LWJpdCUyMGNyeXB0b2dyYXBoaWMlMjBoYXNoZXMuJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyNDM0ODEyNDA5Yzg2NDIwZTk0NzFiZTBkYmUwMjU2M2QlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjJmMzhiYWU3MTZjYzg0MzgxYmZmYjY4ZDhhOGNiZDE1NSUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjI0OTdhYjhmZTY4NjQ0NDQ5ZDRhMzE0MWVjZThmMjJlJTIyJTdE&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;ENS works purely with fixed length 256-bit cryptographic hashes.&lt;/font&gt;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="30" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="UTS46&lt;br&gt;http://unicode.org/reports/tr46/" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="45" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="edgeStyle=none;html=1;fontSize=8;" edge="1" parent="1" source="9" target="11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="foo&lt;br&gt;&lt;br&gt;eth" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="250" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" style="edgeStyle=none;html=1;fontSize=8;" edge="1" parent="1" source="11" target="14">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="240" y="680"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="lable hash of both of these labels&lt;br&gt;(12iey3iey2389u98u)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="390" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="REGISTRY" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="626" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="edgeStyle=none;html=1;fontSize=8;" edge="1" parent="1" source="14" target="18">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="14" target="20">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="14" target="21">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="various domain names lives here in the block chain" style="shape=tape;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="722" width="550" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;span style=&quot;&quot; data-slate-fragment=&quot;JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMlRoZSUyMHJlZ2lzdHJ5JTIwbWFpbnRhaW5zJTIwYSUyMGxpc3QlMjBvZiUyMGRvbWFpbnMlMkMlMjByZWNvcmRpbmclMjB0aGUlMjBvd25lciUyQyUyMHJlc29sdmVyJTJDJTIwYW5kJTIwVFRMJTIwZm9yJTIwZWFjaCUyQyUyMGFuZCUyMGFsbG93cyUyMHRoZSUyMG93bmVyJTIwb2YlMjBhJTIwZG9tYWluJTIwdG8lMjBtYWtlJTIwY2hhbmdlcyUyMHRvJTIwdGhhdCUyMGRhdGEuJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyYzdhZmIzNzllNzk0NDkxOGIwY2VhMTM1NzBmZGRmMjElMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjIyYjYwY2Y4M2JmN2Q0NzVlYWIyZjQ0ODI4MzM1NWU2MCUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMmI3MWZhZjM1N2YxYzQ4MmY5OGFhMTQxMDU5MWMzYWFmJTIyJTdE&quot;&gt;The registry maintains a list of domains, recording the owner, resolver, and TTL for each, and allows the owner of a domain to make changes to that data.&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+                    <mxGeometry x="325" y="592" width="200" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="SEARCHING OF HASH IN REGISTRY" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="520" width="160" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="TTL&amp;nbsp; (TIME TO LIVE)" style="whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+                    <mxGeometry x="405" y="862" width="100" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="OWNER" style="whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="872" width="100" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="RESOLVER" style="whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="862" width="100" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="&lt;span style=&quot;color: rgb(232, 234, 237); font-family: &amp;quot;Google Sans&amp;quot;, arial, sans-serif; text-align: left;&quot;&gt;resolver is&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(226, 238, 255); font-family: &amp;quot;Google Sans&amp;quot;, arial, sans-serif; text-align: left;&quot;&gt;a service that provides an IP address on request for a domain name&lt;/span&gt;&lt;span style=&quot;color: rgb(232, 234, 237); font-family: &amp;quot;Google Sans&amp;quot;, arial, sans-serif; text-align: left;&quot;&gt;.&lt;/span&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=10;fillColor=#33001A;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="950" width="140" height="70" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
